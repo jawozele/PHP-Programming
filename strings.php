@@ -1,9 +1,3 @@
-<!-- This program will combine the first two variables using concatenation 
-The following programme after that will print the combined variables
-by displaying the first alphabet in each word in Uppercase, followed by
-uppercase, lowercase and oncemore uppercase -->
-
-
 <!DOCTYPE>
 <html>
 		<head>
